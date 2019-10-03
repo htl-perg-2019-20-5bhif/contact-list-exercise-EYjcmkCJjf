@@ -1,0 +1,14 @@
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\bin\Debug\netcoreapp2.1\ContacList.deps.json
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\bin\Debug\netcoreapp2.1\ContacList.runtimeconfig.json
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\bin\Debug\netcoreapp2.1\ContacList.runtimeconfig.dev.json
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\bin\Debug\netcoreapp2.1\ContacList.dll
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\bin\Debug\netcoreapp2.1\ContacList.pdb
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.csprojAssemblyReference.cache
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.csproj.CoreCompileInputs.cache
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.RazorAssemblyInfo.cache
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.RazorAssemblyInfo.cs
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.AssemblyInfoInputs.cache
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.AssemblyInfo.cs
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.RazorTargetAssemblyInfo.cache
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.dll
+C:\Users\Markus\Documents\5 (6). Klasse HTL\SYP\Projekt 1920\ContacList\ContacList\obj\Debug\netcoreapp2.1\ContacList.pdb
