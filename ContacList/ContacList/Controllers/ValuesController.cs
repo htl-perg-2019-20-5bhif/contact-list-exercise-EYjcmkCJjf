@@ -7,12 +7,16 @@ using Microsoft.AspNetCore.Mvc;
 namespace ContacList.Controllers
 {
 
+    // Avoid two classes in one file
     public class ContactItem
     {
+        // Avoid members starting with lowercase letter
         public String firstname { get; set; }
         public String lastname { get; set; }
         public String email { get; set; }
     }
+    
+    // Inconsistent class name ("ToDo"?)
     [ApiController]
     [Route("/api")]
     public partial class ToDoController : ControllerBase
@@ -56,6 +60,7 @@ namespace ContacList.Controllers
         {
             for(int i = 0; i < items.Count; i++)
             {
+                // Specification: Contains, not equals
                 if (items[i].firstname.Equals(nameFilter))
                 {
                     return Ok(items[i]);
